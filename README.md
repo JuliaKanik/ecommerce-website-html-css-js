@@ -1,6 +1,8 @@
 # ecommerce-website-html-css-js
 ## Responsive Ecommerce Website
 
+!!! Project in progress. Responsive landing page. !!!
+
 #### Description
 This project is a responsive ecommerce website that was created by following a tutorial on YouTube titled "LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT." The tutorial provided step-by-step instructions on building and deploying a full multipage ecommerce website from scratch.
 
