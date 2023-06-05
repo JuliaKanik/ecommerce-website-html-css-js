@@ -26,4 +26,4 @@ Explore the different pages and features of the ecommerce website.
 
 ![image](https://github.com/JuliaKanik/ecommerce-website-html-css-js/assets/124036482/001bd727-bd70-4bcd-b148-fde43fcb093d)
 #### Acknowledgments
-I would like to express my gratitude to the creator of the tutorial on YouTube for providing such a detailed and informative resource for learning web development. The tutorial served as a valuable learning experience and inspiration for this project.
+I would like to express my gratitude to the creator of the tutorial on YouTube for providing such a detailed and informative resource for learning web development. The tutorial served as a valuable learning experience.
